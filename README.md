@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Todo-Summary-Assistant
 AI-powered to-do list manager with real-time Slack integration, built using React and Spring Boot.
 =======
-# Todo Summary Assistant - Sushma Patel (N-Destination Technologies)
+# Todo Summary Assistant - Sushma Patel N - Destination Technologies
 
 This is a full-stack project that allows users to manage their to-dos, generate summaries using OpenAI, and send the summaries to a Slack channel.
 
@@ -35,6 +35,5 @@ This is a full-stack project that allows users to manage their to-dos, generate 
 - **OpenAI**: Get your API key from [OpenAI API Keys](https://platform.openai.com/account/api-keys).
 
 ## Author
-Sushma Patel  
-N-Destination Technologies
->>>>>>> d835234 (Initial commit by Sushma Patel)
+Sushma Patel  N 
+Destination Technologies
